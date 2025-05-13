@@ -1,4 +1,4 @@
-# Dental-Query-Chatbot
+#🦷 Dental-Query-Chatbot
 
 This Jupyter Notebook implements a basic AI-powered chatbot designed to answer dental-related queries. It uses natural language processing techniques to understand and respond to user input, making it useful for basic dental FAQs and awareness.
 
